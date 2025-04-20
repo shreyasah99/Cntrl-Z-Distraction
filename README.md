@@ -19,7 +19,8 @@
 
 ## 🖼️ Demo
 
-![FocusFlow popup](./assets/focusflow-popup-demo.png)
+🎥 [**Video**](https://drive.google.com/drive/folders/1mKWrytH3qFUztUmvuu2NRepRBIk1olvo?usp=drive_link)
+
 
 ---
 
